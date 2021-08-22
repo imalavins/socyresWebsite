@@ -1,0 +1,9 @@
+{
+    "path" : "~/socyres/socyres_site/content/post",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

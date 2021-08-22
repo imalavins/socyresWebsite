@@ -1,0 +1,23 @@
+baseurl: https://example.com/
+title: Socyres
+theme: newsroom
+author: Denai Guna
+copyright: Copyright © 2019, Weru and the Hugo Authors; all rights reserved.
+canonifyurls: yes
+paginate: 6
+markup:
+  goldmark:
+    renderer:
+      hardWraps: no
+      unsafe: no
+      xhtml: no
+  highlight:
+    codeFences: yes
+    guessSyntax: no
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: yes
+    lineNumbersInTable: no
+    noClasses: no
+    tabWidth: 2
+params: {}

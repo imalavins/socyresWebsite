@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(collapse = TRUE)"
+"2","Error in -knitr::opts_chunk$set(collapse = TRUE) : 
+  invalid argument to unary operator
+"

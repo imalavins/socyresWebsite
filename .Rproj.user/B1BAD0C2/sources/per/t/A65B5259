@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627739881074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1460432032",
+    "id" : "A65B5259",
+    "lastKnownWriteTime" : 1627739527,
+    "last_content_update" : 1627739527,
+    "path" : "~/socyres/socyres_site/data/menu.yml",
+    "project_path" : "data/menu.yml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
