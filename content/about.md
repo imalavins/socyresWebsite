@@ -1,17 +1,7 @@
 ---
-date: "2014-04-09"
-image: street.jpg
-title: About Hugo
+date: "2021-09-06"
+image: banner_tw.png
+title: About Socyres
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
-* [https://github.com/alecthomas/chroma](https://github.com/alecthomas/chroma)
-* [https://github.com/muesli/smartcrop](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/cobra](https://github.com/muesli/smartcrop)
-* [https://github.com/spf13/viper](https://github.com/muesli/smartcrop)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Socyres is coming from Society, Social Media and Resilience. This website was used to learn and connects the dots between the social phenomena supported with the data analysis and visualization using R language. If you want to discuss about the content of the data please kindly contact : *halodenai@gmail.com* . 
