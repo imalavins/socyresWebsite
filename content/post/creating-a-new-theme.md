@@ -1,8 +1,8 @@
 ---
-author: Michael Henderson
+author: Imama Lavi
 date: "2014-09-28"
-image: boy.jpg
-title: Creating a New Theme
+image: fotovaksin.jpg
+title: Vaksinasi untuk Tingkatkan Fragile State Index Indonesia
 ---
 
 ## Introduction
