@@ -115,8 +115,11 @@ Penerapan strategi ini membutuhkan kolaborasi lintas sektor dan hal lain yang pe
 ## References
 
 [1] Margaretha Hanita (2021), Paradoks Ketahanan Nasional Di Masa Pandemi:Merekonstruksi Strategi Ketahanan Nasional Melawan Covid 19 http://jurnal.lemhannas.go.id/index.php/jkl/article/view/186/97
+
 [2] Republika. (2021, Sept 2). https://www.republika.co.id/berita/qytdxx409/dominasi-delta-kemunculan-varian-mu-dan-saran-ilmuwan-part1
+
 [3] Fragile State Index (2021). https://fragilestatesindex.org/
+
 [4] Kominfo (2021, Juli 5). https://www.kominfo.go.id/content/detail/35474/akselerasi-vaksinasi-untuk-jaga-ketahanan-masyarakat-dan-pulihkan-ekonomi/0/berita
 
 
