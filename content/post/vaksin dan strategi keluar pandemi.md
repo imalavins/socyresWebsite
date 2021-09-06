@@ -2,7 +2,7 @@
 author: Imama Lavi
 date: "2021-09-06"
 image: fotovaksin.jpg
-title: Vaksinasi,*Fragile State Index*, dan Strategi Pasca Pandemi
+title: Vaksinasi, Fragile State Index, dan Strategi Hadapi Pandemi
 ---
 
 ## Prolog
