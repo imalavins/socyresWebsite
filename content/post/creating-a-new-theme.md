@@ -7,8 +7,7 @@ title: Vaksinasi untuk Tingkatkan Fragile State Index Indonesia
 
 ## Introduction
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
-
+Vaksinasi adalah salah satu cara mengatasi pandemi Covid-19 untuk dapat meningkatkan imun kita terhadap virus. Apabila vaksinasi dapat terlaksana dengan baik maka secara umum dapat meningkatkan tingkat kesehatan di negeri ini. Tingkat kesehatan di negeri ini berkaitan dengan Fragile State Index yang mempengaruhi ketahanan nasional Indonesia. Maka, salah satu cara untuk peningkatan FSI adalah melalui peningkatan jumlah vaksinasi nasional.
 We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
 
 In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.

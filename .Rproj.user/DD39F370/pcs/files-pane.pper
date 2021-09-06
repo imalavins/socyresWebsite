@@ -5,5 +5,9 @@
             "ascending": true
         }
     ],
+<<<<<<< HEAD
     "path": "~/Computational social/website fix/socyresWebsite"
+=======
+    "path": "~/socyres/socyresWebsite"
+>>>>>>> 0cf1431d48689750d07e92f195e6a126134e8c32
 }
