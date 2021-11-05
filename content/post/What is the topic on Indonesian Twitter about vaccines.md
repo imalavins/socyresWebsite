@@ -31,8 +31,8 @@ Conclusion: This pandemic which is entering its almost 2nd year has many develop
 
 Source:
 
-[1] https://aptika.kominfo.go.id/2021/10/kominfo-urunkan-2-225-konten-hoaks-seputar-vaksin-covid-19-dari-medsos/
+[1] Hoax during vaccination period (2021) https://aptika.kominfo.go.id/2021/10/kominfo-urunkan-2-225-konten-hoaks-seputar-vaksin-covid-19-dari-medsos/
 
-[2] https://www.antaranews. com/news/2429013/hoaks-vaccin-covid-19-ubah-warna-blood
+[2] Hoax about Changing Color after Taking Vaccine (2021) https://www.antaranews.com/news/2429013/hoaks-vaccin-covid-19-ubah-warna-blood
 
-[3] https://databoks.katadata.co.id/datapublish/2021/11/04/berian-dosis-vaksin-covid-19-indonesia -fifth-most-in-the-world 
+[3] Indonesia in 5th largest number of vaccination (2021) https://databoks.katadata.co.id/datapublish/2021/11/04/berian-dosis-vaksin-covid-19-indonesia-fifth-most-in-the-world 
