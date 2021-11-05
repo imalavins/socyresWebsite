@@ -9,7 +9,7 @@ Although there are many pros and cons related to the availability of vaccines, e
 
 This number makes Indonesia become the 5th largest number of vaccines in the world. It's not only at the point of vaccination location that conversations about this are discussed, but in cyberspace, vaccination activities attract the attention of citizens. 
 
-**Then how do netizens respond to vaccines in Indonesia? **
+*Then how do netizens respond to vaccines in Indonesia? *
 
 This article will discuss the response of twitter citizens related to vaccines using wordcloud. Data was collected on October 7, 2021. Here are the results.
 
@@ -17,7 +17,7 @@ This article will discuss the response of twitter citizens related to vaccines u
 
 In the wordcloud, it can be seen that the most words are vaccines themselves, then the words lawan, kena, hoax, and vaksinasi are shown in a row. 
 
-The interesting thing about this wordcloud  was the emergence of the word "hoaks" which turned out to be a topic that was widely discussed. 
+The interesting thing about this wordcloud  was the appearnce of the word "hoaks" which turned out to be a topic that was widely discussed. 
 
 The hoaxes topic on social media related to vaccines is quite a lot. Reporting from the kominfo.go.id page, there are at least 2,225 hoax content related to the covid-10 vaccine from social media. The largest distribution was Facebook which contained 2,042 content and followed in second place was Twitter, which recorded 108 hoaxes circulating widely. In addition, there are also YouTube and TikTok which are not spared from the target of hoaxes.
 
