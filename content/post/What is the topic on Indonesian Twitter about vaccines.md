@@ -5,10 +5,12 @@ image: Rplot01.png
 title: What is the topic on Indonesian Twitter about vaccines?
 ---
 
-Although there are many pros and cons related to the availability of vaccines, especially for anti-vaccines, in fact as many as 200,547,666 have been injected for all citizens, with details of the number of vaccine doses 1 being 123,433,856 and for vaccine 2 being 77,113,810. This number continues to be accelerated by the government because the vaccine target for this year is 208,265,720 for health workers, the elderly, public officials, vulnerable communities and the general public as well as ages 12-17 years.
+Although there are many pros and cons related to the availability of vaccines, especially for anti-vaccines, in fact as many as 200,547,666 have been injected for all citizens, with details of the number of vaccine doses 1 are 123,433,856 and for vaccine 2 are 77,113,810. This number continues to be accelerated by the government because the vaccine target for this year is about 208,265,720 for health workers, the elderly, public officials, vulnerable communities and the general public as well as ages 12-17 years.
 
-This number makes Indonesia the 5th largest number of vaccines in the world. It's not only at the point of vaccination location that conversations about this are discussed, but in cyberspace, vaccination activities attract the attention of citizens. 
-Then how do netizens respond to vaccines in Indonesia? 
+This number makes Indonesia become the 5th largest number of vaccines in the world. It's not only at the point of vaccination location that conversations about this are discussed, but in cyberspace, vaccination activities attract the attention of citizens. 
+
+**Then how do netizens respond to vaccines in Indonesia? **
+
 This article will discuss the response of twitter citizens related to vaccines using wordcloud. Data was collected on October 7, 2021. Here are the results.
 
 ![Worcloud created by author, Source: https://socyres.netlify.app](/images/Rplot01.png)
