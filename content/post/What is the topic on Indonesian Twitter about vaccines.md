@@ -19,9 +19,9 @@ In the wordcloud, it can be seen that the most words are vaccines themselves, th
 
 The interesting thing about this wordcloud  was the appearnce of the word "hoaks" which turned out to be a topic that was widely discussed. 
 
-The hoaxes topic on social media related to vaccines is quite a lot. Reporting from the kominfo.go.id page, there are at least 2,225 hoax content related to the covid-10 vaccine from social media. The largest distribution was Facebook which contained 2,042 content and followed in second place was Twitter, which recorded 108 hoaxes circulating widely. In addition, there are also YouTube and TikTok which are not spared from the target of hoaxes.
+The hoaxes topic on social media related to vaccines is quite a lot. Reporting from the kominfo.go.id page, there are at least 2,225 hoax content related to the covid-10 vaccine from social media. The largest distribution was Facebook which contained 2,042 content and followed in second place was Twitter, which recorded 108 hoaxes spread widely. In addition, there are also YouTube and TikTok which are not spared from the target of hoaxes.
 
-One of the hoax according to Antaranews is that vaccines cause blood to change color. The following is a photo that has been widely circulated on netizens' timelines: The head of the American Red Sign Biomedia Service, Dr. Pampee Young, explained that there is no ingredient in the COVID-19 vaccine that can change the color of blood.  
+One of the hoax according to Antaranews is that vaccines cause blood to change color. The following is a photo that has been widely spread on netizens' timelines: The head of the American Red Sign Biomedia Service, Dr. Pampee Young, explained that there is no ingredient in the COVID-19 vaccine that can change the color of blood.  
 
 ![Hoax, Source: https://socyres.netlify.app](/images/hoax.png)
 
