@@ -21,7 +21,7 @@ The hoaxes topic on social media related to vaccines is quite a lot. Reporting f
 
 One of the hoax according to Antaranews is that vaccines cause blood to change color. The following is a photo that has been widely circulated on netizens' timelines: The head of the American Red Sign Biomedia Service, Dr. Pampee Young, explained that there is no ingredient in the COVID-19 vaccine that can change the color of blood.  
 
-![Hoax, Source: https://socyres.netlify.app](/images/Rplot01hoax.png)
+![Hoax, Source: https://socyres.netlify.app](/images/hoax.png)
 
 Blood color is influenced by the oxygen content in the blood cells. If oxygen-rich blood vessels leave the heart, the blood will be bright red in color. Conversely, if the blood vessels with little oxygen content return to the heart, the blood will be dark red in color. 
 
